@@ -1,0 +1,26 @@
+{
+  "name": "testcafe-electron",
+  "version": "1.0.0",
+  "description": "use testcafe for electron app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vijaydandu/testcafe-electron.git"
+  },
+  "author": "Vijay Dandu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vijaydandu/testcafe-electron/issues"
+  },
+  "homepage": "https://github.com/vijaydandu/testcafe-electron#readme",
+  "devDependencies": {
+    "electron": "^6.0.12",
+    "testcafe": "^1.5.0"
+  },
+  "dependencies": {
+    "testcafe-browser-provider-electron": "0.0.12"
+  }
+}
